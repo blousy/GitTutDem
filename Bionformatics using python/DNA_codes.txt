@@ -1,0 +1,197 @@
+[1] + length of DNA : 16
+
+[2] + DNA  Sequence : ACCTGCATTTCAGCAA
+[3] + Nucleutides Frequency : {'A': 5, 'C': 5, 'T': 4, 'G': 2}
+
+[4] + DNA/RNA Transcription : ACCUGCAUUUCAGCAA
+[5] + DNA/RNA Transcription Frequency : {'A': 5, 'C': 5, 'U': 4, 'G': 2}
+[6] + Reverse Complement of DNA is TTGCTGAAATGCAGGT 
+
+-----------------------------------------------
+
+[1] + length of DNA : 28
+
+[2] + DNA  Sequence : TTGGGGTTAAACGAATATGCCCATATCT
+[3] + Nucleutides Frequency : {'A': 8, 'C': 5, 'T': 9, 'G': 6}
+
+[4] + DNA/RNA Transcription : UUGGGGUUAAACGAAUAUGCCCAUAUCU
+[5] + DNA/RNA Transcription Frequency : {'A': 8, 'C': 5, 'U': 9, 'G': 6}
+[6] + Reverse Complement of DNA is ACATATCCCGATATTGCTTTAAGGGGAA 
+
+-----------------------------------------------
+
+[1] + length of DNA : 2
+
+[2] + DNA  Sequence : CA
+[3] + Nucleutides Frequency : {'A': 1, 'C': 1, 'T': 0, 'G': 0}
+
+[4] + DNA/RNA Transcription : CA
+[5] + DNA/RNA Transcription Frequency : {'A': 1, 'C': 1, 'U': 0, 'G': 0}
+[6] + Reverse Complement of DNA is TC 
+[7] + GC Content 50%
+
+-----------------------------------------------
+
+[1] + length of DNA : 2
+
+[2] + DNA  Sequence : GT
+[3] + Nucleutides Frequency : {'A': 0, 'C': 0, 'T': 1, 'G': 1}
+
+[4] + DNA/RNA Transcription : GU
+[5] + DNA/RNA Transcription Frequency : {'A': 0, 'C': 0, 'U': 1, 'G': 1}
+[6] + Reverse Complement of DNA is AG 
+[7] + GC Content 50%
+
+-----------------------------------------------
+
+[1] + length of DNA : 4
+
+[2] + DNA  Sequence : CGAT
+[3] + Nucleutides Frequency : {'A': 1, 'C': 1, 'T': 1, 'G': 1}
+
+[4] + DNA/RNA Transcription : CGAU
+[5] + DNA/RNA Transcription Frequency : {'A': 1, 'C': 1, 'U': 1, 'G': 1}
+[6] + Reverse Complement of DNA is ATGC 
+[7] + GC Content 50%
+
+-----------------------------------------------
+
+[1] + length of DNA : 30
+
+[2] + DNA  Sequence : GGGCCCGCTTCTGCATATCTATAAACGTGA
+[3] + Nucleutides Frequency : {'A': 7, 'C': 8, 'T': 8, 'G': 7}
+
+[4] + DNA/RNA Transcription : GGGCCCGCUUCUGCAUAUCUAUAAACGUGA
+[5] + DNA/RNA Transcription Frequency : {'A': 7, 'C': 8, 'U': 8, 'G': 7}
+[6] + Reverse Complement of DNA is TGAGCTTTATACATATCGACAACGCCCGGG 
+[7] + GC Content 50%
+
+-----------------------------------------------
+
+[1] + length of DNA : 3
+
+[2] + DNA  Sequence : ACG
+[3] + Nucleutides Frequency : {'A': 1, 'C': 1, 'T': 0, 'G': 1}
+
+[4] + DNA/RNA Transcription : ACG
+[5] + DNA/RNA Transcription Frequency : {'A': 1, 'C': 1, 'U': 0, 'G': 1}
+[6] + Reverse Complement of DNA is GCT 
+[7] + GC Content 67%
+
+-----------------------------------------------
+
+[1] + length of DNA : 27
+
+[2] + DNA  Sequence : ATAGGTCACCGTAGATCGGGGTACCTT
+[3] + Nucleutides Frequency : {'A': 6, 'C': 6, 'T': 7, 'G': 8}
+
+[4] + DNA/RNA Transcription : AUAGGUCACCGUAGAUCGGGGUACCUU
+[5] + DNA/RNA Transcription Frequency : {'A': 6, 'C': 6, 'U': 7, 'G': 8}
+[6] + Reverse Complement of DNA is AACCTAGGGGCATGTAGCCTCAGGTAT 
+[7] + GC Content 52%
+
+-----------------------------------------------
+
+[1] + length of DNA : 11
+
+[2] + DNA  Sequence : ATTGGGTGGCA
+[3] + Nucleutides Frequency : {'A': 2, 'C': 1, 'T': 3, 'G': 5}
+
+[4] + DNA/RNA Transcription : AUUGGGUGGCA
+[5] + DNA/RNA Transcription Frequency : {'A': 2, 'C': 1, 'U': 3, 'G': 5}
+[6] + Reverse Complement of DNA is TCGGAGGGAAT 
+[7] + GC Content 55%
+
+-----------------------------------------------
+
+[1] + length of DNA : 11
+
+[2] + DNA  Sequence : GACGGAATATG
+[3] + Nucleutides Frequency : {'A': 4, 'C': 1, 'T': 2, 'G': 4}
+
+[4] + DNA/RNA Transcription : GACGGAAUAUG
+[5] + DNA/RNA Transcription Frequency : {'A': 4, 'C': 1, 'U': 2, 'G': 4}
+[6] + Reverse Complement of DNA is GATATTGGCTG 
+[7] + GC Content 45%
+[8] + GC content subset : [80] 
+
+-----------------------------------------------
+
+[1] + length of DNA : 50
+
+[2] + DNA  Sequence : GGCAAGCCAGGGTTAGGGTCGAATCATCATTGACCACTTGAAGAACGAGT
+[3] + Nucleutides Frequency : {'A': 15, 'C': 10, 'T': 10, 'G': 15}
+
+[4] + DNA/RNA Transcription : GGCAAGCCAGGGUUAGGGUCGAAUCAUCAUUGACCACUUGAAGAACGAGU
+[5] + DNA/RNA Transcription Frequency : {'A': 15, 'C': 10, 'U': 10, 'G': 15}
+[6] + Reverse Complement of DNA is AGTGCTTGTTGAACTCCTGAATCATCATTGCAGGGTAAGGGTCCGTTCGG 
+[7] + GC Content 50%
+[8] + GC content subset : [60] 
+
+-----------------------------------------------
+
+[1] + length of DNA : 15
+
+[2] + DNA  Sequence : GAGTGGATACGTGTG
+[3] + Nucleutides Frequency : {'A': 3, 'C': 1, 'T': 4, 'G': 7}
+
+[4] + DNA/RNA Transcription : GAGUGGAUACGUGUG
+[5] + DNA/RNA Transcription Frequency : {'A': 3, 'C': 1, 'U': 4, 'G': 7}
+[6] + Reverse Complement of DNA is GAGAGCTATGGAGTG 
+[7] + GC Content 53%
+[8] + GC content subset : [60] 
+
+-----------------------------------------------
+
+[1] + length of DNA : 32
+
+[2] + DNA  Sequence : TGAAGCGGAGAATTCTGCTCCCTTTAATGTCA
+[3] + Nucleutides Frequency : {'A': 8, 'C': 7, 'T': 10, 'G': 7}
+
+[4] + DNA/RNA Transcription : UGAAGCGGAGAAUUCUGCUCCCUUUAAUGUCA
+[5] + DNA/RNA Transcription Frequency : {'A': 8, 'C': 7, 'U': 10, 'G': 7}
+[6] + Reverse Complement of DNA is TCAGATTAAACCCACGACAATTGTGGCGTTGA 
+[7] + GC Content 44%
+[8] + GC content subset : [40] 
+
+-----------------------------------------------
+
+[1] + length of DNA : 37
+
+[2] + DNA  Sequence : TCGGACACGCTTCGTCACCTCTACTTGGGAGACTAGA
+[3] + Nucleutides Frequency : {'A': 8, 'C': 11, 'T': 9, 'G': 9}
+
+[4] + DNA/RNA Transcription : UCGGACACGCUUCGUCACCUCUACUUGGGAGACUAGA
+[5] + DNA/RNA Transcription Frequency : {'A': 8, 'C': 11, 'U': 9, 'G': 9}
+[6] + Reverse Complement of DNA is TGTACTGTGGGAACTACACCTCAGCAACGCTCTGGCA 
+[7] + GC Content 54%
+[8] + GC content subset : [60, 80, 40, 60, 40, 60, 40] 
+
+-----------------------------------------------
+
+[1] + length of DNA : 1
+
+[2] + DNA  Sequence : G
+[3] + Nucleutides Frequency : {'A': 0, 'C': 0, 'T': 0, 'G': 1}
+
+[4] + DNA/RNA Transcription : G
+[5] + DNA/RNA Transcription Frequency : {'A': 0, 'C': 0, 'U': 0, 'G': 1}
+[6] + Reverse Complement of DNA is G 
+[7] + GC Content 100%
+[8] + GC content subset : [] 
+
+-----------------------------------------------
+
+[1] + length of DNA : 15
+
+[2] + DNA  Sequence : CCGTTTCTCCACATC
+[3] + Nucleutides Frequency : {'A': 2, 'C': 7, 'T': 5, 'G': 1}
+
+[4] + DNA/RNA Transcription : CCGUUUCUCCACAUC
+[5] + DNA/RNA Transcription Frequency : {'A': 2, 'C': 7, 'U': 5, 'G': 1}
+[6] + Reverse Complement of DNA is CATCTCCACAAAGCC 
+[7] + GC Content 53%
+[8] + GC content subset : [60, 60] 
+
+-----------------------------------------------
+

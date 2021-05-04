@@ -1,0 +1,80 @@
+
+ DNA string + Reverse Complement :
+3' ACCTGCATTTCAGCAA 5'  
+   ||||||||||||||||
+5' TTGCTGAAATGCAGGT 3'
+
+ DNA string + Reverse Complement :
+3' TTGGGGTTAAACGAATATGCCCATATCT 5'  
+   ||||||||||||||||||||||||||||
+5' ACATATCCCGATATTGCTTTAAGGGGAA 3'
+
+ DNA string + Reverse Complement :
+3' CA 5'  
+   ||
+5' TC 3'
+
+ DNA string + Reverse Complement :
+3' GT 5'  
+   ||
+5' AG 3'
+
+ DNA string + Reverse Complement :
+3' CGAT 5'  
+   ||||
+5' ATGC 3'
+
+ DNA string + Reverse Complement :
+3' GGGCCCGCTTCTGCATATCTATAAACGTGA 5'  
+   ||||||||||||||||||||||||||||||
+5' TGAGCTTTATACATATCGACAACGCCCGGG 3'
+
+ DNA string + Reverse Complement :
+3' ACG 5'  
+   |||
+5' GCT 3'
+
+ DNA string + Reverse Complement :
+3' ATAGGTCACCGTAGATCGGGGTACCTT 5'  
+   |||||||||||||||||||||||||||
+5' AACCTAGGGGCATGTAGCCTCAGGTAT 3'
+
+ DNA string + Reverse Complement :
+3' ATTGGGTGGCA 5'  
+   |||||||||||
+5' TCGGAGGGAAT 3'
+
+ DNA string + Reverse Complement :
+3' GACGGAATATG 5'  
+   |||||||||||
+5' GATATTGGCTG 3'
+
+ DNA string + Reverse Complement :
+3' GGCAAGCCAGGGTTAGGGTCGAATCATCATTGACCACTTGAAGAACGAGT 5'  
+   ||||||||||||||||||||||||||||||||||||||||||||||||||
+5' AGTGCTTGTTGAACTCCTGAATCATCATTGCAGGGTAAGGGTCCGTTCGG 3'
+
+ DNA string + Reverse Complement :
+3' GAGTGGATACGTGTG 5'  
+   |||||||||||||||
+5' GAGAGCTATGGAGTG 3'
+
+ DNA string + Reverse Complement :
+3' TGAAGCGGAGAATTCTGCTCCCTTTAATGTCA 5'  
+   ||||||||||||||||||||||||||||||||
+5' TCAGATTAAACCCACGACAATTGTGGCGTTGA 3'
+
+ DNA string + Reverse Complement :
+3' TCGGACACGCTTCGTCACCTCTACTTGGGAGACTAGA 5'  
+   |||||||||||||||||||||||||||||||||||||
+5' TGTACTGTGGGAACTACACCTCAGCAACGCTCTGGCA 3'
+
+ DNA string + Reverse Complement :
+3' G 5'  
+   |
+5' G 3'
+
+ DNA string + Reverse Complement :
+3' CCGTTTCTCCACATC 5'  
+   |||||||||||||||
+5' CATCTCCACAAAGCC 3'
